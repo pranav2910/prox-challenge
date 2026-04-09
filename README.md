@@ -83,7 +83,7 @@ Open `.env` and fill in your credentials (e.g. your OpenAI API key). This file i
 
 ## 🚀 Usage
 
-### Step 1 — Ingest Your Documents (skip this step if you are testing this prtotype for Vulcan OmniPro 220 (because both extracted files and json are already included) )
+### Step 1 — Ingest Your Documents (skip this step if you are testing this prototype for Vulcan OmniPro 220 (because both extracted files and json are already included) )
 
 Place your source files inside the `files/` directory, then run:
 
