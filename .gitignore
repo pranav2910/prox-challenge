@@ -1,0 +1,38 @@
+# ==========================================
+# Security & Secrets (NEVER push these!)
+# ==========================================
+.env
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+venv/
+env/
+.venv/
+
+# ==========================================
+# Python Cache & Compiled Files
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# ==========================================
+# Project-Specific Data & Assets
+# ==========================================
+# These folders appear to hold generated or downloaded data. 
+# It is usually best practice to ignore them so they don't bloat your repo.
+extracted_assets/
+files/
+# ==========================================
+# OS Generated Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
